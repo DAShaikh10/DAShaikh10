@@ -9,10 +9,6 @@ I am looking forward to learn a lot from the developer community here while cont
 - 🌱 I’m currently learning **machine learning, deep learning, natural language processing, natural language understanding** and much more.
 - 💞️ I’m looking to for opportunities to collaborate to projects and I am brushing up my skills for the same.
 
-<br>
-
-[![Leetcode problems][leetcode-problems-badge]][leetcode-url]
-
 ## :gear: :desktop_computer: Technologies & Tools
 [![OS][os-shield]][os-url]
 [![Editor][editor-shield]][editor-url]
@@ -32,10 +28,10 @@ I am looking forward to learn a lot from the developer community here while cont
 ## :pushpin: Pinned repositories
 <!-- PINNED REPOSITORIES -->
 <a href="https://github.com/DAShaikh10/Tic-Tac-Toe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Tic-Tac-Toe&theme=yeblu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Tic-Tac-Toe&theme=yeblu"/>
 </a>
 <a href="https://github.com/DAShaikh10/Turtle-Logos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Turtle-Logos&theme=yeblu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Turtle-Logos&theme=yeblu"/>
 </a>
 
 ## :page_facing_up: Github profile stats
@@ -44,24 +40,41 @@ I am looking forward to learn a lot from the developer community here while cont
 ![Github followers][github-followers-shield]
 
 ### :chart_with_upwards_trend: Github stats
-![Github stats][github-stats]
+<div align="center">
+
+  <a>![Github stats][github-stats]</a>
+
+</div>
 
 ### :keyboard: Most used language
-![Github language][github-language]
+<div align="center">
+
+  <a>![Github language][github-language]</a>
+
+</div>
 
 ### :dart: Streak stats
-![Github streak][github-streak]
+<div align="center">
+
+  <a>![Github streak][github-streak]</a>
+
+</div>
 
 ### :trophy: Trophies stats
-![Github trophy][github-trophy]
+<div align="center">
+
+  <a>![Github trophy][github-trophy]</a>
+
+</div>
+
+## Code stats
+[![Leetcode problems][leetcode-problems-badge]][leetcode-url]
 
 ## Published papers
 ![SSRN][ssrn-shield] [Speech Recognition Based Prescription Generator][ssrn-paper-url]  
 
 The next was a follow up to the previous paper,  
 ![IEEE][ieee-shield] [Voice Prescription using Natural Language Understanding][ieee-paper-url]
-
-<br>
 
 <div align="center">
 
@@ -121,7 +134,7 @@ Feel free to reach out, I'll be happy to hear from you.
 [github-stars-shield]: https://img.shields.io/github/stars/DAShaikh10?style=social
 [github-followers-shield]: https://img.shields.io/github/followers/DAShaikh10?style=social
 [github-stats]: https://github-readme-stats.vercel.app/api?username=DAShaikh10&theme=yeblu&show_icons=true&include_all_commits=true&count_private=true
-[github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&theme=yeblu
+[github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&theme=yeblu&layout=compact
 [github-streak]: https://github-readme-streak-stats.herokuapp.com/?user=DAShaikh10&theme=yeblu
 [github-trophy]: https://github-profile-trophy.vercel.app/?username=DAShaikh10&theme=algolia
 [ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
