@@ -133,8 +133,8 @@ Feel free to reach out, I'll be happy to hear from you.
 [visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=DAShaikh10
 [github-stars-shield]: https://img.shields.io/github/stars/DAShaikh10?style=social
 [github-followers-shield]: https://img.shields.io/github/followers/DAShaikh10?style=social
-[github-stats]: https://github-readme-stats.vercel.app/api?username=DAShaikh10&theme=yeblu&show_icons=true&include_all_commits=true&count_private=true
-[github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&theme=yeblu&layout=compact
+[github-stats]: https://github-readme-stats.vercel.app/api?username=DAShaikh10&theme=yeblu&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=7200
+[github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&theme=yeblu
 [github-streak]: https://github-readme-streak-stats.herokuapp.com/?user=DAShaikh10&theme=yeblu
 [github-trophy]: https://github-profile-trophy.vercel.app/?username=DAShaikh10&theme=algolia
 [ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
