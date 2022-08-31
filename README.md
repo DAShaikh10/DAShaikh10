@@ -90,6 +90,7 @@ Feel free to reach out, I'll be happy to hear from you.
 [![Linkedin][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
 [![LeetCode][leetcode-shield]][leetcode-url]
+[![Hackerrank][hackerrank-shield]][hackerrank-url]
 [![GFG][gfg-shield]][gfg-url]
 
 <br>
@@ -150,6 +151,8 @@ Feel free to reach out, I'll be happy to hear from you.
 [quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia
 [leetcode-shield]: https://img.shields.io/badge/-Danish%20Ali-grey?style=flat&logo=leetcode
 [leetcode-url]: https://leetcode.com/DAShaikh
+[hackerrank-shield]: https://img.shields.io/badge/-Danish%20Ali-black?style=flat&logo=hackerrank
+[hackerrank-url]: https://www.hackerrank.com/d_a_shaikh10
 [gfg-shield]: https://img.shields.io/badge/-Danish%20Ali-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
 [gfg-url]: https://auth.geeksforgeeks.org/user/dashaikh/profile
 [built-with-love-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
