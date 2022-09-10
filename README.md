@@ -68,8 +68,13 @@ I am looking forward to learn a lot from the developer community here while cont
 
 </div>
 
-## Code stats
-[![Leetcode problems][leetcode-problems-badge]][leetcode-url]
+## Code stats  
+<div align="center">
+
+  <a href="">[![GFG Institute rank][gfg-rank-shield]][gfg-url]</a>
+  <a href="">[![Leetcode problems][leetcode-problems-badge]][leetcode-url]</a>
+
+</div>
 
 ## Published papers
 ![SSRN][ssrn-shield] [Speech Recognition Based Prescription Generator][ssrn-paper-url]  
@@ -105,6 +110,7 @@ Feel free to reach out, I'll be happy to hear from you.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/DAShaikh/solved?color=orange&logo=leetcode
+[gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-23-green?labelColor=white&logo=geeksforgeeks&style=flat
 [os-shield]: https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&color=8eaec6
 [os-url]: https://www.microsoft.com/en-in/windows?r=1
 [editor-shield]: https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=0066b8
