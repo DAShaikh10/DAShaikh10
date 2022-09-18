@@ -110,7 +110,7 @@ Feel free to reach out, I'll be happy to hear from you.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/DAShaikh/solved?color=orange&logo=leetcode
-[gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-23-green?labelColor=white&logo=geeksforgeeks&style=flat
+[gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-22-green?labelColor=white&logo=geeksforgeeks&style=flat
 [os-shield]: https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&color=8eaec6
 [os-url]: https://www.microsoft.com/en-in/windows?r=1
 [editor-shield]: https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=0066b8
