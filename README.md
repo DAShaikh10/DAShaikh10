@@ -7,7 +7,7 @@ I am looking forward to learn a lot from the developer community here while cont
 
 - 👀 I’m interested in a lot of things ranging from **data science** to **full stack development**.
 - 🌱 I’m currently learning **machine learning, deep learning, natural language processing, natural language understanding** and much more.
-- 🔭I'm currently working on development of **Costco inspired E-Commerce website**.
+- 🔭I'm currently working on development of **Subscription based eCommerce website**.
 - 💞️ I’m looking to for opportunities to collaborate to projects and I am brushing up my skills for the same.
 
 ## :gear: :desktop_computer: Technologies & Tools
