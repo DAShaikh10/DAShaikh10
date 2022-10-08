@@ -17,6 +17,7 @@ I am looking forward to learn a lot from the developer community here while cont
 [![C++][c++-shield]][c++-url]
 [![Git][git-shield]][git-url]
 [![Github website][github-website-shield]][github-url]
+[![Figma][figma-shield]][figma-url]
 [![Sklearn][sklearn-shield]][sklearn-url]
 [![Tensorflow][tensorflow-shield]][tensorflow-url]
 [![Keras][keras-shield]][keras-url]
@@ -122,6 +123,8 @@ Feel free to reach out, I'll be happy to hear from you.
 [git-shield]: https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&color=db5638
 [git-url]: https://git-scm.com
 [github-website-shield]: https://img.shields.io/badge/-Github-informational?style=flat&logo=github&color=000000
+[figma-shield]: https://img.shields.io/badge/-Figma-informational?style=flat&logo=figma&color=white
+[figma-url]: https://www.figma.com
 [sklearn-shield]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white
 [sklearn-url]: https://scikit-learn.org
 [tensorflow-shield]: https://img.shields.io/badge/-Tensorflow-informational?style=flat&logo=tensorflow
