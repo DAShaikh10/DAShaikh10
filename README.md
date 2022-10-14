@@ -164,5 +164,5 @@ Feel free to reach out, I'll be happy to hear from you.
 [hackerrank-shield]: https://img.shields.io/badge/-Danish%20Ali-black?style=flat&logo=hackerrank
 [hackerrank-url]: https://www.hackerrank.com/d_a_shaikh10
 [gfg-shield]: https://img.shields.io/badge/-Danish%20Ali-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
-[gfg-url]: https://auth.geeksforgeeks.org/user/dashaikh/profile
+[gfg-url]: https://auth.geeksforgeeks.org/user/dashaikh10
 [built-with-love-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
