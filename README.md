@@ -37,7 +37,7 @@ I am looking forward to learn a lot from the developer community here while cont
 </a>
 
 ## :page_facing_up: Github profile stats
-![Visitors][visitors-badge]
+<!-- ![Visitors][visitors-badge] -->
 ![Github stars][github-stars-shield]
 ![Github followers][github-followers-shield]
 
