@@ -18,6 +18,12 @@ I am looking forward to learn a lot from the developer community here while cont
 [![Git][git-shield]][git-url]
 [![Github website][github-website-shield]][github-url]
 [![Figma][figma-shield]][figma-url]
+[![HTML5][html5-sheild]][html5-url]
+[![CSS3][css-sheild]][css-url]
+[![Bootstrap][bootstrap-sheild]][bootstrap-url]
+[![TailwindCSS][tailwindcss-sheild]][tailwindcss-url]
+[![React][react-sheild]][react-url]
+[![Node][node-sheild]][node-url]
 [![Sklearn][sklearn-shield]][sklearn-url]
 [![Tensorflow][tensorflow-shield]][tensorflow-url]
 [![Keras][keras-shield]][keras-url]
@@ -125,6 +131,18 @@ Feel free to reach out, I'll be happy to hear from you.
 [github-website-shield]: https://img.shields.io/badge/-Github-informational?style=flat&logo=github&color=000000
 [figma-shield]: https://img.shields.io/badge/-Figma-informational?style=flat&logo=figma&color=white
 [figma-url]: https://www.figma.com
+[html5-sheild]: https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&color=white
+[html5-url]: https://html.spec.whatwg.org/multipage
+[css-sheild]: https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3
+[css-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[bootstrap-sheild]: https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&color=white
+[bootstrap-url]: https://getbootstrap.com
+[tailwindcss-sheild]: https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=tailwindcss&color=f7fafc
+[tailwindcss-url]: https://v1.tailwindcss.com
+[react-sheild]: https://img.shields.io/badge/React-informational?style=flat&logo=react&color=black
+[react-url]: https://reactjs.org
+[node-sheild]: https://img.shields.io/badge/Node-informational?style=flat&logo=nodedotjs&color=white
+[node-url]:https://nodejs.org
 [sklearn-shield]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white
 [sklearn-url]: https://scikit-learn.org
 [tensorflow-shield]: https://img.shields.io/badge/-Tensorflow-informational?style=flat&logo=tensorflow
