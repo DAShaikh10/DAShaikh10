@@ -121,7 +121,7 @@ Feel free to reach out, I'll be happy to hear from you.
 
 <!-- MARDOWN BADGES -->
 [built-with-love-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
-[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=DAShaikh10
+[visitors-badge]: https://komarev.com/ghpvc/?username=DAShaikh10&color=blue
 
 <!-- MARKDOWN STATS -->
 [github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&theme=yeblu
