@@ -108,6 +108,7 @@ Feel free to reach out, I'll be happy to hear from you.
 [![Gmail][gmail-shield]][gmail-url]
 [![Linkedin][linkedin-shield]][linkedin-url]
 [![Github][github-profile-shield]][github-profile-url]
+[![StackOverflow][stackoverflow-shield]][stackoverflow-url]
 
 
 <br>
@@ -159,6 +160,7 @@ Feel free to reach out, I'll be happy to hear from you.
 [pytorch-shield]: https://img.shields.io/badge/Pytorch-informational?style=flat&logo=pytorch&color=white
 [react-shield]: https://img.shields.io/badge/React-informational?style=flat&logo=react&color=white&labelColor=black
 [sklearn-shield]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white&color=orange&labelColor=blue
+[stackoverflow-shield]: https://img.shields.io/badge/Danish%20Ali-white?style=flat&logo=stackoverflow
 [ssrn-shield]: https://img.shields.io/badge/SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
 [tailwindcss-shield]: https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=tailwindcss&color=F7FAFC
 
@@ -186,5 +188,6 @@ Feel free to reach out, I'll be happy to hear from you.
 [pytorch-url]: https://pytorch.org
 [react-url]: https://reactjs.org
 [sklearn-url]: https://scikit-learn.org
+[stackoverflow-url]: https://stackoverflow.com/users/17414897/dashaikh
 [ssrn-paper-url]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867738
 [tailwindcss-url]: https://v1.tailwindcss.com
