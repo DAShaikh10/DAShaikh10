@@ -60,12 +60,14 @@ I'm excited to both learn from and contribute to the developer community, inspir
     <source
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Tic-Tac-Toe&theme=yeblu"
       media="(prefers-color-scheme: dark)"
+      height="150px"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Tic-Tac-Toe&theme=shadow_blue"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Tic-Tac-Toe&bg_color=30,7ad7f0,92dff3,b7e9f7,dbf3fa,f5fcff&title_color=071952&text_color=00007f&border_color=071952&border_radius=5&icon_color=071952"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      height="150px"
     />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Tic-Tac-Toe&theme=yeblu" />
+    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Tic-Tac-Toe&theme=yeblu" />
   </picture>
 </a>
 <a href="https://github.com/DAShaikh10/Turtle-Logos">
@@ -73,12 +75,14 @@ I'm excited to both learn from and contribute to the developer community, inspir
     <source
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Turtle-Logos&theme=yeblu"
       media="(prefers-color-scheme: dark)"
+      height="150px"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Turtle-Logos&theme=shadow_blue"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Turtle-Logos&bg_color=30,7ad7f0,92dff3,b7e9f7,dbf3fa,f5fcff&title_color=071952&text_color=00007f&border_color=071952&border_radius=5&icon_color=071952"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      height="150px"
     />
-    <img align="center" src="hhttps://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Turtle-Logos&theme=yeblu" />
+    <img height="150px" align="center" src="hhttps://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Turtle-Logos&theme=yeblu" />
   </picture>
 </a>
 
@@ -97,7 +101,7 @@ I'm excited to both learn from and contribute to the developer community, inspir
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=DAShaikh10&theme=shadow_blue&show_icons=true&include_all_commits=true&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=DAShaikh10&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,7ad7f0,92dff3,b7e9f7,dbf3fa,f5fcff&title_color=071952&text_color=00007f&border_color=071952&border_radius=5&icon_color=071952"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=DAShaikh10&theme=yeblu&show_icons=true&include_all_commits=true&count_private=true" />
@@ -114,7 +118,7 @@ I'm excited to both learn from and contribute to the developer community, inspir
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&theme=shadow_blue&size_weight=0.5&count_weight=0.5"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&size_weight=0.5&count_weight=0.5&bg_color=30,7ad7f0,92dff3,b7e9f7,dbf3fa,f5fcff&title_color=071952&text_color=00007f&border_color=071952&border_radius=5"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&theme=yeblu&size_weight=0.5&count_weight=0.5" />
@@ -131,7 +135,7 @@ I'm excited to both learn from and contribute to the developer community, inspir
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=DAShaikh10&theme=shadow_blue"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=DAShaikh10&theme=ocean-gradient&border_radius=5"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DAShaikh10&theme=yeblu" />
@@ -144,14 +148,14 @@ I'm excited to both learn from and contribute to the developer community, inspir
 
   <picture>
     <source
-      srcset="https://github-profile-trophy.vercel.app/?username=DAShaikh10&theme=algolia"
+      srcset="https://github-profile-trophy.vercel.app/?username=DAShaikh10&column=-1&margin-h=15&margin-w=15&no-frame=true&theme=algolia"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-profile-trophy.vercel.app/?username=DAShaikh10&theme=shadow_blue"
+      srcset="https://github-profile-trophy.vercel.app/?username=DAShaikh10&column=-1&margin-h=15&margin-w=15&no-frame=true&theme=flat"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-profile-trophy.vercel.app/?username=DAShaikh10&theme=algolia" />
+    <img src="https://github-profile-trophy.vercel.app/?username=DAShaikh10&column=-1&margin-h=15&margin-w=15&no-frame=true&theme=algolia" />
   </picture>
 
 </div>
@@ -172,7 +176,7 @@ The next was a follow up to the previous paper,
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow_blue"
+          srcset="https://quotes-github-readme.vercel.app/api?theme=catppuccin_latte"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
