@@ -55,36 +55,15 @@ I'm excited to both learn from and contribute to the developer community, inspir
 
 <!-- PINNED REPOSITORIES -->
 ## :pushpin: Pinned Repositories
-<a href="https://github.com/DAShaikh10/Tic-Tac-Toe">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Tic-Tac-Toe&theme=yeblu"
-      media="(prefers-color-scheme: dark)"
-      height="150px"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Tic-Tac-Toe&bg_color=30,7ad7f0,92dff3,b7e9f7,dbf3fa,f5fcff&title_color=071952&text_color=00007f&border_color=071952&border_radius=5&icon_color=071952"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      height="150px"
-    />
-    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Tic-Tac-Toe&theme=yeblu" />
-  </picture>
-</a>
-<a href="https://github.com/DAShaikh10/Turtle-Logos">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Turtle-Logos&theme=yeblu"
-      media="(prefers-color-scheme: dark)"
-      height="150px"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Turtle-Logos&bg_color=30,7ad7f0,92dff3,b7e9f7,dbf3fa,f5fcff&title_color=071952&text_color=00007f&border_color=071952&border_radius=5&icon_color=071952"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      height="150px"
-    />
-    <img height="150px" align="center" src="hhttps://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Turtle-Logos&theme=yeblu" />
-  </picture>
-</a>
+<div align="center">
+
+  [![Top Repo 1 Light][top-repo-1-light]][top-repo-1-light-base]
+  [![Top Repo 1  Dark][top-repo-1-dark]][top-repo-1-dark-base]
+
+  [![Top Repo 2 Light][top-repo-2-light]][top-repo-2-light-base]
+  [![Top Repo 2  Dark][top-repo-2-dark]][top-repo-2-dark-base]
+
+</div>
 
 <!-- GITHUB PROFILE STATS -->
 ## :page_facing_up: Github Profile Stats
@@ -95,93 +74,46 @@ I'm excited to both learn from and contribute to the developer community, inspir
 #### :chart_with_upwards_trend: Github Stats
 <div align="center">
 
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=DAShaikh10&theme=yeblu&show_icons=true&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=DAShaikh10&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,7ad7f0,92dff3,b7e9f7,dbf3fa,f5fcff&title_color=071952&text_color=00007f&border_color=071952&border_radius=5&icon_color=071952"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=DAShaikh10&theme=yeblu&show_icons=true&include_all_commits=true&count_private=true" />
-  </picture>
+  [![Githus Stats Light][github-stats-light]][github-stats-light-base]
+  [![Githus Stats Dark][github-stats-dark]][github-stats-dark-base]
 
 </div>
 
 ### :keyboard: Most Used Language
 <div align="center">
 
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&theme=yeblu&size_weight=0.5&count_weight=0.5"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&size_weight=0.5&count_weight=0.5&bg_color=30,7ad7f0,92dff3,b7e9f7,dbf3fa,f5fcff&title_color=071952&text_color=00007f&border_color=071952&border_radius=5"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&theme=yeblu&size_weight=0.5&count_weight=0.5" />
-</picture>
+  [![Github Language Light][github-language-light]][github-language-light-base]
+  [![Github Language Dark][github-language-dark]][github-language-dark-base]
 
 </div>
 
 ### :dart: Streak Stats
 <div align="center">
 
-  <picture>
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=DAShaikh10&theme=yeblu"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=DAShaikh10&theme=ocean-gradient&border_radius=5"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DAShaikh10&theme=yeblu" />
-  </picture>
+  [![Github Streak Light][github-streak-light]][github-streak-light-base]
+  [![Github Steak Dark][github-streak-dark]][github-streak-dark-base]
 
 </div>
 
 ### :trophy: Trophies Stats
 <div align="center">
 
-  <picture>
-    <source
-      srcset="https://github-profile-trophy.vercel.app/?username=DAShaikh10&column=-1&margin-h=15&margin-w=15&no-frame=true&theme=algolia"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-profile-trophy.vercel.app/?username=DAShaikh10&column=-1&margin-h=15&margin-w=15&no-frame=true&theme=flat"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-profile-trophy.vercel.app/?username=DAShaikh10&column=-1&margin-h=15&margin-w=15&no-frame=true&theme=algolia" />
-  </picture>
+  [![Github Trophy Light][github-trophy-light]][github-trophy-light-base]
+  [![Github Trophy Dark][github-trophy-dark]][github-trophy-dark-base]
 
 </div>
 
 ## Published Papers
-![SSRN][ssrn-shield] [Speech Recognition Based Prescription Generator][ssrn-paper-url]  
+![SSRN][ssrn-shield] [Speech Recognition Based Prescription Generator][ssrn-paper-url]
 
-The next was a follow up to the previous paper,  
+The next was a follow up to the previous paper,
 
 ![IEEE][ieee-shield] [Voice Prescription using Natural Language Understanding][ieee-paper-url]
 
 <div align="center">
 
-  <a href="https://github.com/DAShaikh10">
-      <picture>
-        <source
-          srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://quotes-github-readme.vercel.app/api?theme=catppuccin_latte"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
-    </picture>
-  </a>
+  [![Quote Light][quote-light]][quote-light-base]
+  [![Quote Dark][quote-dark]][quote-dark-base]
 
 </div>
 
@@ -194,22 +126,45 @@ Feel free to reach out, I'll be happy to hear from you.
 [![Github][github-profile-shield]][github-profile-url]
 [![StackOverflow][stackoverflow-shield]][stackoverflow-url]
 
-
 <br>
 
 <!-- FOOTER QUOTE -->
 <div align="center">
 
-  <a href="https://github.com/DAShaikh10">![Built with love][built-with-love-badge]</a>
+<a href="https://github.com/DAShaikh10">![Built with love][built-with-love-badge]</a>
 
 </div>
 
 <!-- COMPANY URL -->
 [company-url]: https://www.zeuslearning.com
 
-<!-- MARDOWN BADGES -->
-[built-with-love-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
-[visitors-badge]: https://vbr.wocr.tk/badge?page_id=DAShaikh10&color=white
+<!-- MARKDOWN PINNED REPOS -->
+[top-repo-1-light]: https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Tic-Tac-Toe&bg_color=30,7ad7f0,92dff3,b7e9f7,dbf3fa,f5fcff&title_color=071952&text_color=00007f&border_color=071952&border_radius=5&icon_color=071952#gh-light-mode-only
+[top-repo-1-light-base]: https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Tic-Tac-Toe#gh-light-mode-only
+[top-repo-1-dark]: https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Tic-Tac-Toe&theme=yeblu#gh-dark-mode-only
+[top-repo-1-dark-base]: https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Tic-Tac-Toe#gh-dark-mode-only
+[top-repo-2-light]: https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Turtle-Logos&bg_color=30,7ad7f0,92dff3,b7e9f7,dbf3fa,f5fcff&title_color=071952&text_color=00007f&border_color=071952&border_radius=5&icon_color=071952#gh-light-mode-only
+[top-repo-2-light-base]: https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Turtle-Logos#gh-light-mode-only
+[top-repo-2-dark]: https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Turtle-Logos&theme=yeblu#gh-dark-mode-only
+[top-repo-2-dark-base]: https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=Turtle-Logos#gh-dark-mode-only
+
+<!-- MARKDOWN STATS -->
+[github-language-light]: https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&size_weight=0.5&count_weight=0.5&bg_color=30,7ad7f0,92dff3,b7e9f7,dbf3fa,f5fcff&title_color=071952&text_color=00007f&border_color=071952&border_radius=5#gh-light-mode-only
+[github-language-light-base]: https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10#gh-light-mode-only
+[github-language-dark]: https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&theme=yeblu&size_weight=0.5&count_weight=0.5#gh-dark-mode-only
+[github-language-dark-base]: https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10#gh-dark-mode-only
+[github-stats-light]: https://github-readme-stats.vercel.app/api?username=DAShaikh10&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,7ad7f0,92dff3,b7e9f7,dbf3fa,f5fcff&title_color=071952&text_color=00007f&border_color=071952&border_radius=5&icon_color=071952#gh-light-mode-only
+[github-stats-light-base]: https://github-readme-stats.vercel.app/api?username=DAShaikh10#gh-light-mode-only
+[github-stats-dark]: https://github-readme-stats.vercel.app/api?username=DAShaikh10&theme=yeblu&show_icons=true&include_all_commits=true&count_private=true#gh-dark-mode-only
+[github-stats-dark-base]: https://github-readme-stats.vercel.app/api?username=DAShaikh10#gh-dark-mode-only
+[github-streak-light]: https://github-readme-streak-stats.herokuapp.com?user=DAShaikh10&theme=ocean-gradient&border_radius=5#gh-light-mode-only
+[github-streak-light-base]: https://github-readme-streak-stats.herokuapp.com?user=DAShaikh10#gh-light-mode-only
+[github-streak-dark]: https://github-readme-streak-stats.herokuapp.com/?user=DAShaikh10&theme=yeblu#gh-dark-mode-only
+[github-streak-dark-base]: https://github-readme-streak-stats.herokuapp.com/?user=DAShaikh10#gh-dark-mode-only
+[github-trophy-light]: https://github-profile-trophy.vercel.app/?username=DAShaikh10&column=-1&margin-h=15&margin-w=15&no-frame=true&theme=flat#gh-light-mode-only
+[github-trophy-light-base]: https://github-profile-trophy.vercel.app/?username=DAShaikh10#gh-light-mode-only
+[github-trophy-dark]: https://github-profile-trophy.vercel.app/?username=DAShaikh10&column=-1&margin-h=15&margin-w=15&no-frame=true&theme=algolia#gh-dark-mode-only
+[github-trophy-dark-base]: https://github-profile-trophy.vercel.app/?username=DAShaikh10#gh-dark-mode-only
 
 <!-- MARKDOWN shieldS -->
 [bootstrap-shield]: https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&labelColor=white&color=7952b3
@@ -268,7 +223,7 @@ Feel free to reach out, I'll be happy to hear from you.
 [keras-url]: https://keras.io
 [linkedin-url]: https://www.linkedin.com/in/danish-ali-shaikh
 [mongoose-url]: https://mongoosejs.com
-[node-url]:https://nodejs.org
+[node-url]: https://nodejs.org
 [numpy-url]: https://numpy.org
 [os-url]: https://www.microsoft.com/en-in/windows
 [pandas-url]: https://pandas.pydata.org
@@ -281,3 +236,13 @@ Feel free to reach out, I'll be happy to hear from you.
 [ssrn-paper-url]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867738
 [tailwindcss-url]: https://v1.tailwindcss.com
 [typescript-url]: https://www.typescriptlang.org
+
+<!-- MARKDOWN QUOTE -->
+[quote-light]: https://quotes-github-readme.vercel.app/api?theme=catppuccin_latte#gh-light-mode-only
+[quote-light-base]: https://quotes-github-readme.vercel.app/api#gh-light-mode-only
+[quote-dark]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia#gh-dark-mode-only
+[quote-dark-base]: https://quotes-github-readme.vercel.app/api?type=horizontal#gh-dark-mode-only
+
+<!-- MARDOWN BADGES -->
+[built-with-love-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
+[visitors-badge]: https://vbr.wocr.tk/badge?page_id=DAShaikh10&color=white
