@@ -245,4 +245,4 @@ Feel free to reach out, I'll be happy to hear from you.
 
 <!-- MARDOWN BADGES -->
 [built-with-love-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
-[visitors-badge]: https://vbr.wocr.tk/badge?page_id=DAShaikh10&color=white
+[visitors-badge]: https://img.shields.io/endpoint?url=https://hits.dwyl.com/DAShaikh10//DAShaikh10.json&label=visitors&color=white
