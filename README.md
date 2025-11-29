@@ -76,7 +76,7 @@ I am a \ an ...
 [![Editor][editor-shield]][editor-url]
 [![ESLint][eslint-shield]][eslint-url]
 [![Git][git-shield]][git-url]
-[![Github][github-shield]][github-profile-url]
+[![GitHub][github-shield]][github-profile-url]
 [![Chrome][chrome-shield]][chrome-url]
 [![Postman][postman-shield]][postman-url]
 
@@ -238,7 +238,7 @@ Feel free to reach out, I'll be happy to hear from you.
 [express-shield]: https://img.shields.io/badge/Express-informational?style=flat&logo=express&labelColor=black&color=white
 [figma-shield]: https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&labelColor=white&color=f24e1e
 [git-shield]: https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&color=f05032
-[github-shield]: https://img.shields.io/badge/-Github-informational?style=flat&logo=github&color=181717
+[github-shield]: https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&color=181717
 [github-followers-shield]: https://img.shields.io/github/followers/DAShaikh10?style=social
 [github-profile-shield]: https://img.shields.io/badge/Danish%20Ali-181717?style=flat&logo=github
 [github-stars-shield]: https://img.shields.io/github/stars/DAShaikh10?style=social
