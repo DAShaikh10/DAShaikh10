@@ -74,6 +74,7 @@ I am a \ an ...
 [![OS][linux-shield]][linux-url]
 [![Docker][docker-shield]][docker-url]
 [![Editor][editor-shield]][editor-url]
+[![RStudio][rstudio-shield]][rstudio-url]
 [![ESLint][eslint-shield]][eslint-url]
 [![Git][git-shield]][git-url]
 [![GitHub][github-shield]][github-profile-url]
@@ -263,6 +264,7 @@ Feel free to reach out, I'll be happy to hear from you.
 [python-shield]: https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=ffdc51&labelColor=gray&color=3776ab
 [pytorch-shield]: https://img.shields.io/badge/Pytorch-informational?style=flat&logo=pytorch&color=white
 [r-shield]: https://img.shields.io/badge/R-Informational?style=flat&logo=r&labelColor=276DC3&color=white
+[rstudio-shield]: https://img.shields.io/badge/RStudio-Informational?style=flat&logo=rstudioide&labelColor=white&color=75AADB
 [react-shield]: https://img.shields.io/badge/React-informational?style=flat&logo=react&labelColor=black&color=white
 [scss-shield]: https://img.shields.io/badge/SCSS-Informational?style=flat&logo=sass&labelColor=white&color=CC6699
 [sklearn-shield]: https://img.shields.io/badge/scikit--learn-Informational?style=flat&logo=scikit-learn&logoColor=white&labelColor=blue&color=f7931e
@@ -311,6 +313,7 @@ Feel free to reach out, I'll be happy to hear from you.
 [python-url]: https://www.python.org
 [pytorch-url]: https://pytorch.org
 [r-url]: https://www.r-project.org/
+[rstudio-url]: https://posit.co/download/rstudio-desktop/
 [react-url]: https://reactjs.org
 [scss-url]: https://sass-lang.com/
 [sklearn-url]: https://scikit-learn.org
