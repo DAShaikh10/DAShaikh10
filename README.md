@@ -107,8 +107,10 @@ I am a \ an ...
 
 <div align="center">
 
-[![Githus Stats Light][github-stats-light]][github-stats-light-base]
-[![Githus Stats Dark][github-stats-dark]][github-stats-dark-base]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/fallback/github-stats-dark.svg">
+  <img src="images/fallback/github-stats-light.svg" alt="Github Stats (cached)">
+</picture>
 
 </div>
 
@@ -116,8 +118,10 @@ I am a \ an ...
 
 <div align="center">
 
-[![Github Language Light][github-language-light]][github-language-light-base]
-[![Github Language Dark][github-language-dark]][github-language-dark-base]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/fallback/github-language-dark.svg">
+  <img src="images/fallback/github-language-light.svg" alt="Github Language (cached)">
+</picture>
 
 </div>
 
@@ -125,8 +129,10 @@ I am a \ an ...
 
 <div align="center">
 
-[![Github Streak Light][github-streak-light]][github-streak-light-base]
-[![Github Steak Dark][github-streak-dark]][github-streak-dark-base]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/fallback/github-streak-dark.svg">
+  <img src="images/fallback/github-streak-light.svg" alt="Github Streak (cached)">
+</picture>
 
 </div>
 
@@ -134,8 +140,10 @@ I am a \ an ...
 
 <div align="center">
 
-[![Github Trophy Light][github-trophy-light]][github-trophy-light-base]
-[![Github Trophy Dark][github-trophy-dark]][github-trophy-dark-base]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/fallback/github-trophy-dark.svg">
+  <img src="images/fallback/github-trophy-light.svg" alt="Github Trophy (cached)">
+</picture>
 
 </div>
 
@@ -177,6 +185,12 @@ Feel free to reach out, I'll be happy to hear from you.
 
 <br>
 
+### Cached badge snapshots
+
+The images shown above are cached snapshots stored in `images/fallback/`. A scheduled GitHub Action (`.github/workflows/cache-badges.yml`) attempts to fetch the live badge images daily and commits updated snapshots when available. If a remote service is unreachable (HTTP 503 or similar), the last successful snapshot remains displayed.
+
+The workflow runs on push and every 6 hours by default. It uses conditional requests (ETag / Last-Modified) and stores per-file metadata alongside each cached image as `images/fallback/<name>.etag` and `images/fallback/<name>.lm` to avoid unnecessary downloads.
+
 <!-- FOOTER QUOTE -->
 <div align="center">
 
@@ -202,25 +216,6 @@ Feel free to reach out, I'll be happy to hear from you.
 [top-repo-2-light-base]: https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=YouTube-Playlist-Analyzer#gh-light-mode-only
 [top-repo-2-dark]: https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=YouTube-Playlist-Analyzer&theme=yeblu#gh-dark-mode-only
 [top-repo-2-dark-base]: https://github-readme-stats.vercel.app/api/pin/?username=DAShaikh10&repo=YouTube-Playlist-Analyzer#gh-dark-mode-only
-
-<!-- MARKDOWN STATS -->
-
-[github-language-light]: https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&size_weight=0.5&count_weight=0.5&bg_color=30,7ad7f0,92dff3,b7e9f7,dbf3fa,f5fcff&title_color=071952&text_color=00007f&border_color=071952&border_radius=5#gh-light-mode-only
-[github-language-light-base]: https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10#gh-light-mode-only
-[github-language-dark]: https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&theme=yeblu&size_weight=0.5&count_weight=0.5#gh-dark-mode-only
-[github-language-dark-base]: https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10#gh-dark-mode-only
-[github-stats-light]: https://github-readme-stats.vercel.app/api?username=DAShaikh10&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,7ad7f0,92dff3,b7e9f7,dbf3fa,f5fcff&title_color=071952&text_color=00007f&border_color=071952&border_radius=5&icon_color=071952#gh-light-mode-only
-[github-stats-light-base]: https://github-readme-stats.vercel.app/api?username=DAShaikh10#gh-light-mode-only
-[github-stats-dark]: https://github-readme-stats.vercel.app/api?username=DAShaikh10&theme=yeblu&show_icons=true&include_all_commits=true&count_private=true#gh-dark-mode-only
-[github-stats-dark-base]: https://github-readme-stats.vercel.app/api?username=DAShaikh10#gh-dark-mode-only
-[github-streak-light]: https://github-readme-streak-stats.herokuapp.com?user=DAShaikh10&theme=ocean-gradient&border_radius=5#gh-light-mode-only
-[github-streak-light-base]: https://github-readme-streak-stats.herokuapp.com?user=DAShaikh10#gh-light-mode-only
-[github-streak-dark]: https://github-readme-streak-stats.herokuapp.com/?user=DAShaikh10&theme=yeblu#gh-dark-mode-only
-[github-streak-dark-base]: https://github-readme-streak-stats.herokuapp.com/?user=DAShaikh10#gh-dark-mode-only
-[github-trophy-light]: https://github-profile-trophy.vercel.app/?username=DAShaikh10&column=-1&margin-h=15&margin-w=15&no-frame=true&theme=flat#gh-light-mode-only
-[github-trophy-light-base]: https://github-profile-trophy.vercel.app/?username=DAShaikh10#gh-light-mode-only
-[github-trophy-dark]: https://github-profile-trophy.vercel.app/?username=DAShaikh10&column=-1&margin-h=15&margin-w=15&no-frame=true&theme=algolia#gh-dark-mode-only
-[github-trophy-dark-base]: https://github-profile-trophy.vercel.app/?username=DAShaikh10#gh-dark-mode-only
 
 <!-- MARKDOWN shieldS -->
 
@@ -333,4 +328,4 @@ Feel free to reach out, I'll be happy to hear from you.
 <!-- MARDOWN BADGES -->
 
 [built-with-love-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
-[visitors-badge]: https://visitor-badge.laobi.icu/badge?page_id=dashaikh10.dashaikh10
+[visitors-badge]: images/fallback/visitors-fallback.svg

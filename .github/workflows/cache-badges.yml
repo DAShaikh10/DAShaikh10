@@ -1,0 +1,130 @@
+name: Cache remote badge images
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours (4x/day)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  cache-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: true
+
+      - name: Download remote badges and update cache
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          mkdir -p images/fallback
+
+          urls=(
+            # Github Stats (light/dark)
+            "https://github-readme-stats.vercel.app/api?username=DAShaikh10&show_icons=true&include_all_commits=true&count_private=true images/fallback/github-stats-light.svg"
+            "https://github-readme-stats.vercel.app/api?username=DAShaikh10&theme=yeblu&show_icons=true&include_all_commits=true&count_private=true images/fallback/github-stats-dark.svg"
+
+            # Top languages (light/dark)
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&size_weight=0.5&count_weight=0.5 images/fallback/github-language-light.svg"
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&theme=yeblu&size_weight=0.5&count_weight=0.5 images/fallback/github-language-dark.svg"
+
+            # Streak stats (light/dark)
+            "https://github-readme-streak-stats.herokuapp.com?user=DAShaikh10&theme=ocean-gradient images/fallback/github-streak-light.svg"
+            "https://github-readme-streak-stats.herokuapp.com/?user=DAShaikh10&theme=yeblu images/fallback/github-streak-dark.svg"
+
+            # Trophy (light/dark)
+            "https://github-profile-trophy.vercel.app/?username=DAShaikh10&column=-1&margin-h=15&margin-w=15&no-frame=true&theme=flat images/fallback/github-trophy-light.svg"
+            "https://github-profile-trophy.vercel.app/?username=DAShaikh10&column=-1&margin-h=15&margin-w=15&no-frame=true&theme=algolia images/fallback/github-trophy-dark.svg"
+
+            # Visitors (single)
+            "https://visitor-badge.laobi.icu/badge?page_id=dashaikh10.dashaikh10 images/fallback/visitors-fallback.svg"
+          )
+
+          changed=0
+          for pair in "${urls[@]}"; do
+            url="$(echo "$pair" | awk '{print $1}')"
+            target="$(echo "$pair" | awk '{print $2}')"
+
+            tmpfile=$(mktemp)
+            hdrfile=$(mktemp)
+            echo "Fetching $url -> $target"
+
+            etagfile="${target}.etag"
+            lmfile="${target}.lm"
+
+            # Build conditional headers if we have previous metadata
+            cond_args=()
+            if [ -f "$etagfile" ]; then
+              etag_val=$(cat "$etagfile" | tr -d '\r\n') || true
+              if [ -n "$etag_val" ]; then
+                cond_args+=( -H "If-None-Match: $etag_val" )
+              fi
+            fi
+            if [ -f "$lmfile" ]; then
+              lm_val=$(cat "$lmfile" | tr -d '\r\n') || true
+              if [ -n "$lm_val" ]; then
+                cond_args+=( -H "If-Modified-Since: $lm_val" )
+              fi
+            fi
+
+            # Perform conditional GET (with retries for transient failures)
+            http_status=$(curl --retry 3 --retry-delay 2 -s -w "%{http_code}" -D "$hdrfile" -L "${cond_args[@]}" "$url" -o "$tmpfile" || true)
+
+            if [ "$http_status" = "304" ]; then
+              echo "Not modified: $target (304)"
+              rm -f "$tmpfile" "$hdrfile" || true
+              continue
+            fi
+
+            if [ "$http_status" = "200" ] && [ -s "$tmpfile" ]; then
+              # Extract ETag / Last-Modified from response headers and store
+              etag_out=$(grep -i '^ETag:' "$hdrfile" | sed -E 's/^[Ee]Tag:[[:space:]]*//' | tr -d '\r') || true
+              lm_out=$(grep -i '^Last-Modified:' "$hdrfile" | sed -E 's/^[Ll]ast-[Mm]odified:[[:space:]]*//' | tr -d '\r') || true
+
+              if [ -n "$etag_out" ]; then
+                echo "$etag_out" > "$etagfile"
+                git add "$etagfile"
+              fi
+              if [ -n "$lm_out" ]; then
+                echo "$lm_out" > "$lmfile"
+                git add "$lmfile"
+              fi
+
+              # Only replace target if content differs
+              if [ -f "$target" ]; then
+                if ! cmp -s "$tmpfile" "$target"; then
+                  mv "$tmpfile" "$target"
+                  git add "$target"
+                  changed=1
+                  echo "Updated $target"
+                else
+                  rm "$tmpfile"
+                  echo "No change for $target"
+                fi
+              else
+                mv "$tmpfile" "$target"
+                git add "$target"
+                changed=1
+                echo "Created $target"
+              fi
+            else
+              echo "Skipping $url — HTTP $http_status or empty response"
+              rm -f "$tmpfile" "$hdrfile" || true
+            fi
+          done
+
+          if [ "$changed" -eq 1 ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "chore: update cached badge images" || echo "Nothing to commit"
+            git push origin HEAD
+          else
+            echo "No badge changes to commit"
+          fi
