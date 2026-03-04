@@ -15,6 +15,7 @@ I look forward to both learn from and contribute to the community, inspiring and
 
 I am a \ an ...
 
+- 🔬**Software & Data Engineering Werkstudent** [**@Doc Cirrus GmbH**][doc-cirrus-url]
 - 💻 **MSc Data Science** student [**@Berliner Hochschule für Technik (BHT)**][bht-url].
 - 💡**Full-Stack Engineer** with **2+** years of experience in the Ed-Tech domain.
 - 🔭 Aspiring **Full Stack Machine Learning Engineer** passionate about ML and Full Stack Development, seeking opportunities to collaborate.
@@ -278,6 +279,7 @@ The workflow runs on push and every 6 hours by default. It uses conditional requ
 [colab-url]: https://colab.research.google.com
 [css-modules-url]: https://github.com/css-modules/css-modules
 [css3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[doc-cirrus-url]: https://www.doc-cirrus.com/
 [docker-url]: https://www.docker.com/
 [dotnet-url]: https://dotnet.microsoft.com/en-us/
 [editor-url]: https://code.visualstudio.com
