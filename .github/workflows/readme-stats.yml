@@ -1,0 +1,59 @@
+# Target repository: https://github.com/anuraghazra/github-readme-stats
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      # --- Stats card (light / dark) ---
+      - name: Generate stats card (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true
+          path: images/fallback/github-stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=yeblu&show_icons=true&include_all_commits=true&count_private=true
+          path: images/fallback/github-stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # --- Top languages card (light / dark) ---
+      - name: Generate top languages card (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5
+          path: images/fallback/github-language-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=yeblu&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5
+          path: images/fallback/github-language-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add images/fallback/*.svg
+          git commit -m "chore (daily): update README stats cards" || exit 0
+          git push

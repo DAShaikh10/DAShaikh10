@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours (4x/day)
+    - cron: "0 3,9,15,21 * * *" # every 6 hours, offset to avoid midnight overlap with readme-stats
   workflow_dispatch: {}
 
 permissions:
@@ -20,21 +20,11 @@ jobs:
           persist-credentials: true
 
       - name: Download remote badges and update cache
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -euo pipefail
           mkdir -p images/fallback
 
           urls=(
-            # Github Stats (light/dark)
-            "https://github-readme-stats.vercel.app/api?username=DAShaikh10&show_icons=true&include_all_commits=true&count_private=true images/fallback/github-stats-light.svg"
-            "https://github-readme-stats.vercel.app/api?username=DAShaikh10&theme=yeblu&show_icons=true&include_all_commits=true&count_private=true images/fallback/github-stats-dark.svg"
-
-            # Top languages (light/dark)
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&size_weight=0.5&count_weight=0.5 images/fallback/github-language-light.svg"
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=DAShaikh10&theme=yeblu&size_weight=0.5&count_weight=0.5 images/fallback/github-language-dark.svg"
-
             # Streak stats (light/dark)
             "https://github-readme-streak-stats.herokuapp.com?user=DAShaikh10&theme=ocean-gradient images/fallback/github-streak-light.svg"
             "https://github-readme-streak-stats.herokuapp.com/?user=DAShaikh10&theme=yeblu images/fallback/github-streak-dark.svg"
@@ -87,6 +77,8 @@ jobs:
               # Extract ETag / Last-Modified from response headers and store
               etag_out=$(grep -i '^ETag:' "$hdrfile" | sed -E 's/^[Ee]Tag:[[:space:]]*//' | tr -d '\r') || true
               lm_out=$(grep -i '^Last-Modified:' "$hdrfile" | sed -E 's/^[Ll]ast-[Mm]odified:[[:space:]]*//' | tr -d '\r') || true
+
+              rm -f "$hdrfile"
 
               if [ -n "$etag_out" ]; then
                 echo "$etag_out" > "$etagfile"
