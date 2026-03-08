@@ -7,7 +7,7 @@
 
 <!-- INTRODUCTION -->
 
-> _Exploring the frontier of Natural Language Processing and Agentic Systems to bridge the gap between human intent and machine execution._
+_Exploring the frontier of Natural Language Processing and Agentic Systems to bridge the gap between human intent and machine execution._
 
 **Welcome to my GitHub profile!**
 
@@ -19,9 +19,9 @@ I am a \ an ...
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="20" height="20" /> **MSc Data Science** student [**@Berliner Hochschule für Technik (BHT)**][bht-url].
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Necktie.png" alt="Necktie" width="15" height="15" /> **Full-Stack Engineer** with **2+** years of experience in the Ed-Tech domain.
-
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="20" height="20" /> **Deep Learning & NLP Engineer** leveraging a strong Full-Stack experience to build scalable AI applications.
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Necktie.png" alt="Necktie" width="15" height="15" /> **Full-Stack Engineer** with **2+** years of experience in the Ed-Tech domain.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="15" height="15" /> Open to collaborative projects that tackle real-world problems using Machine Learning and modern Software Engineering practices.
 
@@ -257,7 +257,7 @@ The workflow runs on push and every 6 hours by default. It uses conditional requ
 [github-stars-shield]: https://img.shields.io/github/stars/DAShaikh10?style=social
 [gmail-shield]: https://img.shields.io/badge/Danish%20Ali-grey?style=for-the-badge&logo=gmail
 [html5-shield]: https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&labelColor=white&color=e34f26
-[huggingface-shield]: https://img.shields.io/badge/Hugging%20Face-informational?style=for-the-badge&logo=huggingface&logoColor=black&color=FFD21E
+[huggingface-shield]: https://img.shields.io/badge/Hugging%20Face-informational?style=for-the-badge&logo=huggingface&logoColor=ffd21e&labelColor=black&color=ffd21e
 [ieee-shield]: https://img.shields.io/badge/Voice%20Prescription%20using%20Natural%20Language%20Understanding-informational?style=for-the-badge&logo=ieee
 [javascript-shield]: https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&labelColor=gray&color=f7df1e
 [jquery-shield]: https://img.shields.io/badge/JQuery-informational?style=for-the-badge&logo=jquery&labelColor=0769ad&color=white
@@ -278,17 +278,17 @@ The workflow runs on push and every 6 hours by default. It uses conditional requ
 [postman-shield]: https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=postman&labelColor=white&color=ef5b25
 [python-shield]: https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=ffdc51&labelColor=gray&color=3776ab
 [pytorch-shield]: https://img.shields.io/badge/Pytorch-informational?style=for-the-badge&logo=pytorch&color=white
-[r-shield]: https://img.shields.io/badge/R-Informational?style=for-the-badge&logo=r&labelColor=276DC3&color=white
+[r-shield]: https://img.shields.io/badge/R-Informational?style=for-the-badge&logo=r&labelColor=276dc3&color=white
 [react-shield]: https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&labelColor=black&color=white
-[redis-shield]: https://img.shields.io/badge/Redis-informational?style=for-the-badge&logo=redis&logoColor=white&color=DC382D
-[rstudio-shield]: https://img.shields.io/badge/RStudio-Informational?style=for-the-badge&logo=rstudioide&labelColor=white&color=75AADB
-[scss-shield]: https://img.shields.io/badge/SCSS-Informational?style=for-the-badge&logo=sass&labelColor=white&color=CC6699
+[redis-shield]: https://img.shields.io/badge/Redis-informational?style=for-the-badge&logo=redis&logoColor=white&color=dc382d
+[rstudio-shield]: https://img.shields.io/badge/RStudio-Informational?style=for-the-badge&logo=rstudioide&labelColor=white&color=75aadb
+[scss-shield]: https://img.shields.io/badge/SCSS-Informational?style=for-the-badge&logo=sass&labelColor=white&color=cc6699
 [sklearn-shield]: https://img.shields.io/badge/scikit--learn-Informational?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=blue&color=f7931e
 [stackoverflow-shield]: https://img.shields.io/badge/Danish%20Ali-white?style=for-the-badge&logo=stackoverflow
 [ssrn-shield]: https://img.shields.io/badge/Speech%20Recognition%20Based%20Prescription%20Generator-informational?style=for-the-badge&logo=ssrn&logoColor=darkblue&color=white
 [tailwindcss-shield]: https://img.shields.io/badge/TailwindCSS-informational?style=for-the-badge&logo=tailwindcss&labelColor=white&color=06b6d4
-[tensorflow-shield]: https://img.shields.io/badge/TensorFlow-informational?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00&color=white
-[torchserve-shield]: https://img.shields.io/badge/TorchServe-informational?style=for-the-badge&logo=pytorch&logoColor=white&color=EE4C2C
+[tensorflow-shield]: https://img.shields.io/badge/TensorFlow-informational?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=ff6f00&color=white
+[torchserve-shield]: https://img.shields.io/badge/TorchServe-informational?style=for-the-badge&logo=pytorch&logoColor=white&color=ee4c2c
 [typescript-shield]: https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&labelColor=white&color=3178c6
 
 <!-- MARKDOWN URL -->
