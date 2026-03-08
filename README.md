@@ -59,6 +59,7 @@ I am a \ an ...
 [![MySQL][mysql-shield]][mysql-url]
 [![MongoDB][mongodb-shield]][mongodb-url]
 [![Redis][redis-shield]][redis-url]
+[![RabbitMQ][rabbitmq-shield]][rabbitmq-url]
 
 </div>
 
@@ -279,6 +280,7 @@ The workflow runs on push and every 6 hours by default. It uses conditional requ
 [python-shield]: https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=ffdc51&labelColor=gray&color=3776ab
 [pytorch-shield]: https://img.shields.io/badge/Pytorch-informational?style=for-the-badge&logo=pytorch&color=white
 [r-shield]: https://img.shields.io/badge/R-Informational?style=for-the-badge&logo=r&labelColor=276dc3&color=white
+[rabbitmq-shield]: https://img.shields.io/badge/RabbitMQ-Informational?style=for-the-badge&logo=rabbitmq&labelColor=white&color=ff6600
 [react-shield]: https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&labelColor=black&color=white
 [redis-shield]: https://img.shields.io/badge/Redis-informational?style=for-the-badge&logo=redis&logoColor=white&color=dc382d
 [rstudio-shield]: https://img.shields.io/badge/RStudio-Informational?style=for-the-badge&logo=rstudioide&labelColor=white&color=75aadb
@@ -337,9 +339,10 @@ The workflow runs on push and every 6 hours by default. It uses conditional requ
 [python-url]: https://www.python.org
 [pytorch-url]: https://pytorch.org
 [r-url]: https://www.r-project.org/
-[rstudio-url]: https://posit.co/download/rstudio-desktop/
+[rabbitmq-url]: https://www.rabbitmq.com/
 [react-url]: https://reactjs.org
 [redis-url]: https://redis.io/
+[rstudio-url]: https://posit.co/download/rstudio-desktop/
 [scss-url]: https://sass-lang.com/
 [sklearn-url]: https://scikit-learn.org
 [stackoverflow-url]: https://stackoverflow.com/users/17414897/dashaikh
