@@ -159,6 +159,19 @@ I am a \ an ...
 
 </div>
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="GitHub Karma" width="15" height="15" /> GitHub Karma
+
+<div align="center">
+
+<a href="https://github.com/DAShaikh10/GitHub-Karma">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/fallback/github-karma-dark.svg">
+    <img src="images/fallback/github-karma-light.svg" alt="GitHub Karma (cached)">
+  </picture>
+</a>
+
+</div>
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="15" height="15" /> Trophies Stats
 
 <div align="center">
