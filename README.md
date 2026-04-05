@@ -165,8 +165,15 @@ I am a \ an ...
 
 <a href="https://github.com/DAShaikh10/GitHub-Karma">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/fallback/github-karma-dark.svg">
-    <img src="images/fallback/github-karma-light.svg" alt="GitHub Karma (cached)">
+    <source media="(prefers-color-scheme: dark)" srcset="images/fallback/github-contributor-karma-dark.svg">
+    <img src="images/fallback/github-contributor-karma-light.svg" alt="GitHub Contributor Karma (cached)">
+  </picture>
+</a>
+
+<a href="https://github.com/DAShaikh10/GitHub-Karma">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/fallback/github-creator-karma-dark.svg">
+    <img src="images/fallback/github-creator-karma-light.svg" alt="GitHub Creator Karma (cached)">
   </picture>
 </a>
 
