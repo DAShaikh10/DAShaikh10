@@ -12,6 +12,7 @@
 
     <title id="titleId">DAShaikh10's GitHub Creator Karma</title>
     <desc id="descId">Creator karma card. Rank Localhost Lurker. Why are you even here? Get coding!. Progress 0.4 percent. Score 2.</desc>
+    
 
     <style>
       .bar { stroke:#4c71f2;stroke-width:8;fill:none;stroke-linecap:round;stroke-dasharray:263.894;stroke-dashoffset:263.894;transform:rotate(-90deg);transform-origin:304px 105px;animation:fillRing 1.2s ease-out forwards; }
