@@ -381,5 +381,5 @@ The workflow runs on push and every 6 hours by default. It uses conditional requ
 
 <!-- MARDOWN BADGES -->
 
-[built-with-love-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
+[built-with-love-badge]: https://forthebadge.com/badges/built-with-love.svg
 [visitors-badge]: images/fallback/visitors-fallback.svg
