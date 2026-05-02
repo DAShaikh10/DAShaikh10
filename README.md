@@ -15,15 +15,15 @@ _Exploring the frontier of Natural Language Processing and Agentic Systems to br
 
 I am a \ an ...
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="20" height="20" /> **Software & Data Engineering** Working Student [**@Doc Cirrus GmbH**][company-url]
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="20" /> **Software & Data Engineering** Working Student [**@Doc Cirrus GmbH**][company-url]
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="20" height="20" /> **MSc Data Science** student [**@Berliner Hochschule für Technik (BHT)**][bht-url].
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="20" /> **MSc Data Science** student [**@Berliner Hochschule für Technik (BHT)**][bht-url].
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="20" height="20" /> **Deep Learning & NLP Engineer** leveraging a strong Full-Stack experience to build scalable AI applications.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="20" /> **Deep Learning & NLP Engineer** leveraging a strong Full-Stack experience to build scalable AI applications.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Necktie.png" alt="Necktie" width="15" height="15" /> **Full-Stack Engineer** with **2+** years of experience in the Ed-Tech domain.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Necktie.png" alt="Necktie" width="15" /> **Full-Stack Engineer** with **2+** years of experience in the Ed-Tech domain.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="15" height="15" /> Open to collaborative projects that tackle real-world problems using Machine Learning and modern Software Engineering practices.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="15" /> Open to collaborative projects that tackle real-world problems using Machine Learning and modern Software Engineering practices.
 
 <!-- TECHNOLOGY STACK -->
 
@@ -48,7 +48,7 @@ I am a \ an ...
 
 </div>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="15" height="15" /> Data Engineering & MLOps
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="15" /> Data Engineering & MLOps
 
 <div align="center">
 
@@ -63,7 +63,7 @@ I am a \ an ...
 
 </div>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="15" height="15" /> Full-Stack Engineering
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="15" /> Full-Stack Engineering
 
 <div align="center">
 
@@ -85,7 +85,7 @@ I am a \ an ...
 
 </div>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="15" height="15" /> Programming Languages
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="15" /> Programming Languages
 
 <div align="center">
 
@@ -126,7 +126,7 @@ I am a \ an ...
 
 </div>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="15" height="15" /> Github Stats
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="15" /> Github Stats
 
 <div align="center">
 
@@ -137,7 +137,7 @@ I am a \ an ...
 
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="15" height="15" /> Most Used Language
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Artist Palette" width="15" /> Most Used Language
 
 <div align="center">
 
@@ -148,7 +148,7 @@ I am a \ an ...
 
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="15" height="15" /> Streak Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="15" /> Streak Stats
 
 <div align="center">
 
@@ -159,7 +159,7 @@ I am a \ an ...
 
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="GitHub Karma" width="15" height="15" /> GitHub Karma
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="GitHub Karma" width="15" /> GitHub Karma
 
 <div align="center">
 
@@ -179,7 +179,7 @@ I am a \ an ...
 
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="15" height="15" /> Trophies Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="15" /> Trophies Stats
 
 <div align="center">
 
