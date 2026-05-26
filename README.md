@@ -53,6 +53,7 @@ I am a \ an ...
 <div align="center">
 
 [![Docker][docker-shield]][docker-url]
+[![Kubernetes][kubernetes-shield]][kubernetes-url]
 [![ONNX][onnx-shield]][onnx-url]
 [![TorchServe][torchserve-shield]][torchserve-url]
 [![Azure][azure-shield]][azure-url]
@@ -286,6 +287,7 @@ The workflow runs on push and every 6 hours by default. It uses conditional requ
 [kaggle-shield]: https://img.shields.io/badge/Kaggle-informational?style=for-the-badge&logo=kaggle&labelColor=white&color=20beff
 [kaggle-profile-shield]: https://img.shields.io/badge/Danish%20Ali-informational?style=for-the-badge&logo=kaggle&labelColor=white&color=20beff
 [keras-shield]: https://img.shields.io/badge/Keras-informational?style=for-the-badge&logo=keras&color=d00000
+[kubernetes-shield]: https://img.shields.io/badge/Kubernetes-informational?style=for-the-badge&logo=kubernetes&labelColor=white&color=326ce5
 [linkedin-shield]: https://img.shields.io/badge/in-Danish%20Ali-0a66c2?style=for-the-badge&logoColor=white
 [mongodb-shield]: https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&labelColor=white&color=47a248
 [mongoose-shield]: https://img.shields.io/badge/Mongoose-informational?style=for-the-badge&logo=mongoose&labelColor=880000&color=white
@@ -345,6 +347,7 @@ The workflow runs on push and every 6 hours by default. It uses conditional requ
 [jupyter-url]: https://jupyter.org/
 [kaggle-url]: https://www.kaggle.com/dashaikh/
 [keras-url]: https://keras.io
+[kubernetes-url]: https://kubernetes.io/
 [linkedin-url]: https://www.linkedin.com/in/danish-ali-shaikh
 [mongodb-url]: https://www.mongodb.com/
 [mongoose-url]: https://mongoosejs.com
