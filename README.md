@@ -15,7 +15,7 @@ _Exploring the frontier of Natural Language Processing and Agentic Systems to br
 
 I am a \ an ...
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="20" /> **Software & Data Engineering** Working Student [**@Doc Cirrus GmbH**][company-url]
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="20" /> **Software & Data Engineering** Working Student [**@Eterno Health GmbH**][company-url]
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="20" /> **MSc Data Science** student [**@Berliner Hochschule für Technik (BHT)**][bht-url].
 
@@ -249,7 +249,7 @@ The workflow runs on push and every 6 hours by default. It uses conditional requ
 
 <!-- COMPANY URL -->
 
-[company-url]: https://www.doc-cirrus.com/
+[company-url]: https://www.eterno.health/
 
 <!-- MARKDOWN shieldS -->
 
