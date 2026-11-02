@@ -26,8 +26,8 @@ jobs:
 
           urls=(
             # Streak stats (light/dark)
-            "https://github-readme-streak-stats.herokuapp.com?user=DAShaikh10&theme=ocean-gradient images/fallback/github-streak-light.svg"
-            "https://github-readme-streak-stats.herokuapp.com/?user=DAShaikh10&theme=yeblu images/fallback/github-streak-dark.svg"
+            "https://github-stats-extended.vercel.app/api?username=DAShaikh10&theme=ocean-gradient images/fallback/github-streak-light.svg"
+            "https://github-stats-extended.vercel.app/api?username=DAShaikh10&theme=yeblu images/fallback/github-streak-dark.svg"
 
             # GitHub Contributor Karma (single-style source cached as light/dark)
             "https://github-karma.vercel.app/api/karma/contributor?username=dashaikh10 images/fallback/github-contributor-karma-light.svg"
