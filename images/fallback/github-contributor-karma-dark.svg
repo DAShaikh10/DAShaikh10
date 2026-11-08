@@ -11,7 +11,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <title id="titleId">DAShaikh10's GitHub Contributor Karma</title>
-    <desc id="descId">Contributor karma card. Rank Active Collaborator. You're actively contributing to the project!. Progress 90.7 percent. Score 3768.</desc>
+    <desc id="descId">Contributor karma card. Rank Active Collaborator. You're actively contributing to the project!. Progress 92 percent. Score 3799.</desc>
     
 
     <style>
@@ -24,8 +24,8 @@
       .score { fill:#fff;font:700 12px Ubuntu,Sans-Serif;text-anchor:middle; }
       .split { stroke:#e4e2e2;stroke-width:1; }
 
-      @keyframes fillRing { to { stroke-dashoffset:24.542 } }
-      @media (prefers-reduced-motion: reduce) {.bar{animation:none;stroke-dashoffset:24.542 } }
+      @keyframes fillRing { to { stroke-dashoffset:21.112 } }
+      @media (prefers-reduced-motion: reduce) {.bar{animation:none;stroke-dashoffset:21.112 } }
     </style>
 
     <rect
